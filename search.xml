@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>关于兮扬的光荣进化</title>
+      <link href="/2025/10/18/Myprogeress/"/>
+      <url>/2025/10/18/Myprogeress/</url>
+      
+        <content type="html"><![CDATA[<h1 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h1><p>你好，欢迎来到我的博客风息之地。我的简历上已经写了一些个人基本信息，此外出于隐私考虑，这里便不再介绍自己是谁。我打算简单讲一下我自己，我不知道该怎么讲起，所以我选择按时间线来描述我自己。</p><p>简单评价的话，我认为我自己有很强的好奇心，较强的驱动力和执行力，自诩算是破产版的U神吧（实力和颜值均不如U神,喜欢做饭&#x2F;可以加班卷&#x2F;荨麻疹哈哈）。在此也感谢曾经那个努力的自己。</p><h1 id="一、高中阶段"><a href="#一、高中阶段" class="headerlink" title="一、高中阶段"></a>一、高中阶段</h1><p>我来自浙江这边的一个小城市。</p><p>初中升高中的时候，我仅差四分与我们那最好的高中失之交臂。因为我的英语很差，这点和早期的U神有点像了，哈哈哈。在高一下半学期的期末考，我清晰地记得满分100的英语我只考了39分，但是还是凭借其他学科成绩划分到了好班级。<br>在这里，我遇到了一个人，他英语也很差，但是他会选择自己做，和困难死磕到底。他和我说：如果我不自己做，而是抄别人的作业，那我永远也学不会英语。正是这段话以及中考4分之差的原因，我选择开始自己做英语作业，遇到不会的单词就查字典。一开始的时候很多都不认识，但我坚持下来了，不认识的单词变得越来越少。</p><p>后来到了高考的时候，英语甚至成为了我分数最高的科目——虽然只有116分。我自以为还行的数学考了114，语文则是正常发挥的112分。最后603的高考总分让我来到了改变人生轨迹的大学。</p><h1 id="二、大学本科阶段"><a href="#二、大学本科阶段" class="headerlink" title="二、大学本科阶段"></a>二、大学本科阶段</h1><p>在本科的时候，我还是一个大混子。<br>每天只知道上课睡觉吃饭，浑浑噩噩了三年。在大三的时候看到了隔壁学校的<a href="https://zhuanlan.zhihu.com/p/360390223">周信静大佬的故事</a>。他的成长故事激励了我，让我幡然醒悟，可惜醒悟的太晚了，当时大学只剩下了一年半的时光。很幸运我受到同学的邀请，参与到第七届浙江省大学生工程训练综合能力竞赛。这是我第一次接触python，也是我第一次接触视觉，那种奇妙的感觉至今我都还难以忘怀——原来机器的眼睛已经不输人眼。</p><p>我负责其中的二维码识别和物料颜色识别工作，相机模组用的openmv。首先是校赛，我们需要通过校赛选拔，才能够去省赛，而省赛的名额只有三个。那是我人生第一次熬夜通宵，因为后天就要校赛选拔了，我们的搬运小车还有很多的问题，只能实现扫码识别的一些功能，在循迹上有很大问题。已经不太记得是硬件还是算法的问题，所以我们只能通宵调试，不停的测试去排查修改问题。在学校选拔赛上，根据相关的评分规则，我们通过二维码识别成功获得相应分数，很幸运拿到了第三个名额。就这样三个小白就莫名其妙的踏上了省赛之旅。省赛在宁波工程学院举办，来了很多其他高校的参赛队伍。和别人的作品比起来，我们的样子又挫性能又拉跨，最后只是混了个省三。<br><img src="/../images/myprogress/1.png"><br>赛后我根据老师的要求也写了心得进行了比赛复盘，在工程训练比赛资料里。然后后面就顺理成章的加入考研大军，是因为我想清楚了我想要重来一次的机会。结果到了决赛阶段却因为种种原因没能坚持下来，第一次考上海大学就这样失败了。但是我决定二战，我知道这将会是我唯一翻盘的机会。</p><h1 id="三、GAP期间"><a href="#三、GAP期间" class="headerlink" title="三、GAP期间"></a>三、GAP期间</h1><p>从学校毕业后，我选择了在学校附近租房，然后偷偷的混进学校的图书馆学习。接近考试的时候，却爆发了疫情，当时还是阳着参与了考试。但是很幸运还是过了国家线，过了复试，那是人生为数不多发自内心的开心。</p><p>后面我便抓紧联系导师，此外还在朋友的帮助下去做了家教兼职。当时还没开学，但是忘记从什么渠道了解到学校将要举行数学建模校赛。知道有这个比赛后，我非常重视，积极联系了几名和我一样还没入学的准硕士进行组队参加。</p><p>因为我的提议，我们选择了车牌识别的赛题。我负责使用opencv将车牌从图片中提取，透视矫正，以及使用直方图进行车牌的字符分割。另外有一个队友选择了别的技术路线，是使用深度学习识别车牌。</p><p>这个比赛最后我们拿到了校三等奖，感觉是因为我们懂技术的不懂如何写数学建模论文，懂数学建模的同学不懂技术——毕竟我们是第一次合作，大家也不认识了解。这次比赛就让我明白团队之间沟通的重要性，只有紧密合作交流，才会推动工作的进展。</p><h1 id="四、研究生阶段"><a href="#四、研究生阶段" class="headerlink" title="四、研究生阶段"></a>四、研究生阶段</h1><p>2023的九月，我再次踏上来到杭州的高铁，在学林街开启属于我的进化之旅。<br>研一的生活和本科差不多，除了上课基本上就是与导师开组会，完成组会任务。当时导师会让我们复现论文，现在想来应该是当时他在考察我们的能力。</p><p>后来没过多久，老师就发给我一篇nature论文——普渡大学鲍芳林博士的hadar，做高光谱相关的研究。因为从未接触过相关领域，所以我研读的很吃力，里面一些基础的理论公式至今都还没理解。做的比较多的研究，是对其提供的唯一一组真实数据的MTALAB代码调试。后来随着研究的深入，一些问题还是没有解决，所以我就发邮件咨询了鲍芳林博士，很幸运当时他即使即使给我了回复，解释了我的疑惑。</p><p>通过邮件内容我也学习了解到原来nature也是数据优选，哈哈哈哈笑死我了。论文开篇吹的效果都快赶上夸父追日女娲补天了。</p><p><img src="/../images/myprogress/2.png"></p><p>后面我们还打算采购高光谱相机进行一些课题组的研究工作。经过我的咨询沟通，借助中达瑞和技术人员来杭州出差的机会，我邀请他们来我们学校进行一些测试。</p><p>后续的测试结果不够理想和经费原因等，后续我没有在开展相关的工作。这里可以提一嘴的是，但是联系的这家公司的销售叶经理后来跳槽到了奥谱天成，今年6月底邀请我去他们台州分公司的开业活动。<br>了解到了该公司新研发的两款产品——手持式水果糖分检测仪、深水区域水质检测仪。</p><p>再后来，我就接手了这个尖兵领雁项目。下面是合同项目证明，因涉及保密需求，这里没有放一些资料。在资料包中有一些现场测试的照片。</p><p><img src="/../images/myprogress/3.png"></p><p>这个项目目的是开发一套适用于恶劣工况的机器人无损检测系统。我主要负责其中视觉检测模块的下位机嵌入式系统设计与上位机软件开发，该模块用于实现对纤维增强复合材料的表面缺陷与纤维取向进行自动化、高精度检测。</p><p>使用的技术有STM32&#x2F;52RC,Freertos,Modbus-RTU&#x2F;OPCUA,PYQT5,Opencv&#x2F;YOLO等。嵌入式这块的话主要是舵机的控制以及STM32的MODBUS协议发送接受应答，实现MODBUS-RTU通信协议在STM32端的协议栈移植与数据帧封装&#x2F;解析</p><p>此外我还基于opencv的gabor滤波&amp;两层聚类(层次聚类&amp;dbscan)前处理+mobilenet分类后处理的编织软管瑕疵检测算法，acc可达95%。目前的话基本完成了YOLO在jetson nano设备上的边缘部署，可以通过连接到同一wifi下然后打开固定IP地址即可实现网页远程连接控制，目前实现了GRADIO和FLASK两种技术方案。<br>使用tensorRT加速，使得目前检测速度可以40帧左右。</p><p><img src="/../images/myprogress/4_gradio.png"></p><p><img src="/../images/myprogress/5_flask.jpg"></p><p>后续预计还需要去现场进行调试。</p><p>因为自研算法的实时性达不到检测要求，在我的GPU4060的情况下也仅有3帧&#x2F;秒的速度，实时检测还是太慢了。所以后续考虑对yolo修改框架结构，将分两头移植为mobilenet网络。这部分工作还未开展，预计可以月底等秋招差不多了开启。</p><p>除此之外，读研期间我还两次参加华为杯中国研究生数学建模比赛，第一次成功参赛，为后续比赛奠定基础，积累经验。第二次作为组长参赛，统筹组员安排，分配调度任务，和队友团结合作，最后获得全国二等奖。</p><p>参赛题目选题是的高速交通问题建模，本人在其中负责使用YOLO&#x2F;BoTSORT算法将车流信息(包含车辆数、车速的等信息)从视频中初步提取，并且负责除了第一大问外的其他所有内容的撰写（后期与组员一起修改）。包括整体方案的规划，数学符号的规定，插图绘制，甚至origin绘图样式的调整等。此外还对参考文献的拥堵算法进行了Softmax激活，在交通拥挤程度评价上取得优秀表现，为后续的缓解交通拥堵提供了重要理论依据。开启应急车道后，根据我们的理论量化分析得到交通拥堵缓解基本在50%左右。再次表明我们的理论模型具有优秀的水平。<br><img src="/../images/myprogress/6.png"></p><h1 id="五、自我评价"><a href="#五、自我评价" class="headerlink" title="五、自我评价"></a>五、自我评价</h1><h3 id="5-1-专业能力"><a href="#5-1-专业能力" class="headerlink" title="5.1 专业能力"></a>5.1 专业能力</h3><p>系统掌握机器视觉与人工智能核心技术，涵盖传统视觉（OpenCV、Gabor 滤波、聚类算法）与深度学习（YOLOv8n、MobileNetV3等其他轻量级CNN），能独立完成 “算法设计 - 模型训练 - 边缘部署” 全流程。研究生阶段主导独立完成2022省级首批尖兵领雁项目，通过将传统视觉与轻量化模型结合，实现编织软管瑕疵检测准确率达 95%，并完成软著《编织物检测探头调控及织物瑕疵检测软件》</p><h3 id="5-2-工程实践扎实"><a href="#5-2-工程实践扎实" class="headerlink" title="5.2 工程实践扎实"></a>5.2 工程实践扎实</h3><p>熟练运用 Python&#x2F;C进行算法开发，善于利用Gemini&#x2F;Claude等AI工具进行辅助帮助。基于 PyQt5 搭建 “编织软管瑕疵检测系统” 上位机，集成实时检测、数据分析与报告生成功能；熟练嵌入式视觉部署，在 Jetson Orin Nano 平台完成 YOLO 模型移植，通过 TensorRT 加速实现 40 帧 &#x2F; 秒检测速度，适配工业级实时检测需求。</p><h3 id="5-3-快速学习与技术攻坚"><a href="#5-3-快速学习与技术攻坚" class="headerlink" title="5.3 快速学习与技术攻坚"></a>5.3 快速学习与技术攻坚</h3><p>面对高光谱等陌生领域，通过研读 Nature 论文、邮件咨询领域专家（鲍芳林博士）快速入门；针对自研算法 3 帧 &#x2F; 秒的实时性问题，提出基于 MobileNet 优化 YOLO 框架的解决方案，展现对技术瓶颈的敏锐洞察与突破能力。</p><h3 id="5-4-团队合作与协作能力"><a href="#5-4-团队合作与协作能力" class="headerlink" title="5.4 团队合作与协作能力"></a>5.4 团队合作与协作能力</h3><p>数学建模校赛中，协调 “技术实现” 与 “论文撰写” 分工，明确团队沟通节奏；实习期间对接企业技术人员，整理设备连接、参数校准等规范文档，协助完成项目验收，推动实验室技术与工业生产需求高效衔接。</p><h1 id="六、我的梦想"><a href="#六、我的梦想" class="headerlink" title="六、我的梦想"></a>六、我的梦想</h1><p>源于《龙族》中的EVA以及《银翼杀手2049》中的JOI的影响，我的职业梦想聚焦于全息投影 + LLM 多模态技术落地，并围绕数字生命与情感交互机器人两大方向，打造能打破 “技术与人类交互边界” 的实用化产品，让前沿科技从实验室走向日常生活与工业场景。<br>在技术落地层面，我希望以自身在机器视觉、嵌入式开发与 AI 算法的积累为基础，推动全息投影与 LLM 多模态技术的深度融合 —— 比如将实时视觉检测（如简历中 YOLOv8n 瑕疵检测、MobileNetV3 模型应用经验）与多模态大模型结合，让全息投影不仅具备 “可视化呈现” 能力，还能通过 LLM 理解人类语言、表情甚至动作意图，实现 “看到即交互” 的自然体验。例如在工业场景中，开发基于全息投影的设备故障诊断系统：通过观察机械内部结构（依托机械工程专业背景），结合 LLM 解析故障数据（如简历中无损检测项目的数据分析经验），让工程师直接与全息模型对话，快速定位问题；在消费场景中，打造轻量化情感交互机器人，用全息投影呈现拟人化形象，通过边缘计算平台部署经验实现设备小型化，让机器人能理解用户情绪、提供陪伴或辅助服务，真正成为 “有温度的人”。</p><p><img src="/../images/myprogress/7.png"></p><p>所以我非常认同贵司的产品定位以及U神的那句“科技不应该只是带来效率和利润，而且还应该提供慰藉和快乐”。不过我更期待的是多样化的情绪，不仅仅只有开心和喜悦，伤心和泪水也一样值得赋予AI，这样才会成为真正的有温度的人！</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2024杂谈</title>
+      <link href="/2024/12/05/AItalk/"/>
+      <url>/2024/12/05/AItalk/</url>
+      
+        <content type="html"><![CDATA[<p>一转眼，2024年也进入了尾声。</p><p>情人节那天和家人一起去爬了李白笔下魂牵梦绕的天姥山：且放白鹿青崖间，须行即骑访名山</p><p><img src="/../images/AItalk/2.jpg"></p><p>普通的蓝箱子开出来龙瞎,为这一年奠定了幸运的主题色。</p><p><img src="/../images/AItalk/1.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> talk&amp;think </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ios的小说自由与windows&amp;ios的RSS订阅实现</title>
+      <link href="/2024/09/29/void11/"/>
+      <url>/2024/09/29/void11/</url>
+      
+        <content type="html"><![CDATA[<h3 id="1、小说自由"><a href="#1、小说自由" class="headerlink" title="1、小说自由"></a>1、小说自由</h3><p>今天讲一种telegram结合zlibrary的技术方案，可轻松实现ios手机端的阅读自由。</p><p>首先需要在telegram中搜索botfather，和他开启对话后，依次输入指令：</p><blockquote><p>&#x2F;start #创建机器人<br>&#x2F;newbot #创建新的机器人<br>botname_bot #修改为你的机器人名字,随意输入但必须以_bot结尾<br>username_bot #修改为你的用户名字,随意输入但必须以_bot结尾</p></blockquote><p>有重复的名字就多试几次，创建成功后就会得到下面图中红色框里的HTTP API</p><p><img src="/../images/viod11/book2.jpg"></p><p>进入<a href="https://zh.z-lib.gs/">zlibrary</a>。自行注册账号后，随便查找一本书籍，点击书籍进入下载详情页，然后点击如下图所示的地方，填入密钥</p><p><img src="/../images/viod11/book1.png" alt="替代文本"></p><p>再回到telegram，和你自行创建的机器人进行对话</p><blockquote><p>&#x2F;start</p></blockquote><p>然后输入你想查找的书本，点击任意一本epub格式的书籍进行下载，选择ios自带的图书软件打开就可以开始阅读。</p><p><img src="/../images/viod11/book3.jpg"></p><h3 id="2、RSS订阅"><a href="#2、RSS订阅" class="headerlink" title="2、RSS订阅"></a>2、RSS订阅</h3><p>在信息如潮水般涌来的时代，RSS订阅宛如一座宁静的知识灯塔，为你指引获取优质信息的方向。</p><p>RSS，即简易信息聚合。它不仅能高效信息管理，也打破了信息的壁垒，让你无需在众多网站间来回奔波，便能轻松将各类精彩内容一网打尽。<br>无论是追踪最新的新闻动态、探索专业的学术研究成果，还是关注你最喜爱的博客更新，RSS 都能第一时间将新鲜资讯呈现在你面前。</p><p>下面介绍我目前在使用的windows和ios的RSS订阅方案，即阅读器+订阅源。Windows上使用的RSS阅读器是<a href="https://github.com/yang991178/fluent-reader/releases">Fluent Reader</a>,ios用的是Ego Reader。<!---->这里通过Fluent Reader为主来介绍方法。微软商店里提供Fluent Reader的下载，也可以点击前面的连接去Github上下载。<br><a href="https://github.com/weekend-project-space/top-rss-list">订阅源</a>则在这里获取，也可以自行搜索其他订阅源。</p><p><img src="/../images/viod11/book4.png"></p><p>上面是我目前在看到订阅源，这里比较推荐SCMP、WSJ。SCMP总部位于香港，但它是阿里巴巴旗下的新闻媒体，提供了相对客观的视角来观察世界和中国。 WSJ则是因为其在消息来源上的手眼通天和无与伦比的新闻专业性，曾经看过一篇讲述孟晚舟案件以及其背后的中美角力的文章，给我留下了很深的印象。</p><p>看书也好，读新闻也罢，这些都是从外界获取信息。<br><strong>然而，更为重要的是培养自身的思考能力，具备甄别信息真假的本领，以此来保持对世界的准确认知。</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> tech </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ios </tag>
+            
+            <tag> windows </tag>
+            
+            <tag> 小说 </tag>
+            
+            <tag> RSS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2024/09/29/hello-world/"/>
+      <url>/2024/09/29/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><h4 id="示例文章-Front-Matter"><a href="#示例文章-Front-Matter" class="headerlink" title="示例文章 Front Matter"></a>示例文章 Front Matter</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">title: 我的第一篇文章</span><br><span class="line"><span class="built_in">date</span>: 2024-09-29 12:00:00</span><br><span class="line">tags:</span><br><span class="line">  - 标签1</span><br><span class="line">  - 标签2</span><br><span class="line">categories:</span><br><span class="line">  - 分类1</span><br><span class="line">  - 分类2</span><br></pre></td></tr></table></figure><h4 id="部署博客"><a href="#部署博客" class="headerlink" title="部署博客"></a>部署博客</h4><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo c &amp;&amp; hexo g &amp;&amp; hexo d</span><br></pre></td></tr></table></figure><h3 id="tips"><a href="#tips" class="headerlink" title="tips"></a>tips</h3><blockquote><p>非ios风格的代码块<br><strong>这是粗体文本</strong></p></blockquote><p>换行小技巧<br>这是第一行。<!---->这是第二行。 </p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
